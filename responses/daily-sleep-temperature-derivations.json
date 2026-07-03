@@ -1,0 +1,631 @@
+{
+    "dataPoints": [
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Versa 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2024,
+                    "month": 7,
+                    "day": 7
+                },
+                "nightlyTemperatureCelsius": 33.397496318114875,
+                "baselineTemperatureCelsius": 33.908361872146116,
+                "relativeNightlyStddev30dCelsius": 0.59720765008542409
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Versa 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2024,
+                    "month": 4,
+                    "day": 19
+                },
+                "nightlyTemperatureCelsius": 33.984018264840181,
+                "baselineTemperatureCelsius": 33.908361872146116,
+                "relativeNightlyStddev30dCelsius": 0.8604878803413496
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Versa 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2024,
+                    "month": 3,
+                    "day": 3
+                },
+                "nightlyTemperatureCelsius": 33.832705479452052,
+                "baselineTemperatureCelsius": 33.743852739726023,
+                "relativeNightlyStddev30dCelsius": 0.85819744167160061
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Versa 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2024,
+                    "month": 2,
+                    "day": 29
+                },
+                "nightlyTemperatureCelsius": 34.82406542056075,
+                "baselineTemperatureCelsius": 33.793814553990615,
+                "relativeNightlyStddev30dCelsius": 0.86244615995766749
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Versa 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2023,
+                    "month": 12,
+                    "day": 19
+                },
+                "nightlyTemperatureCelsius": 32.729969418960245,
+                "baselineTemperatureCelsius": 33.695555555555558,
+                "relativeNightlyStddev30dCelsius": 0.53515334758498179
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Versa 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2023,
+                    "month": 12,
+                    "day": 16
+                },
+                "nightlyTemperatureCelsius": 33.655,
+                "baselineTemperatureCelsius": 33.748967717717719,
+                "relativeNightlyStddev30dCelsius": 0.11673443392273737
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Versa 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2023,
+                    "month": 12,
+                    "day": 3
+                },
+                "nightlyTemperatureCelsius": 33.932629107981221,
+                "baselineTemperatureCelsius": 33.76182432432433,
+                "relativeNightlyStddev30dCelsius": 0.33874310655875
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Versa 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2023,
+                    "month": 11,
+                    "day": 29
+                },
+                "nightlyTemperatureCelsius": 33.736111111111107,
+                "baselineTemperatureCelsius": 33.748967717717719,
+                "relativeNightlyStddev30dCelsius": 0.37593537797910115
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Versa 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2023,
+                    "month": 11,
+                    "day": 12
+                },
+                "nightlyTemperatureCelsius": 33.76182432432433,
+                "baselineTemperatureCelsius": 33.76182432432433,
+                "relativeNightlyStddev30dCelsius": 0.46030882239452148
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Versa 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2023,
+                    "month": 11,
+                    "day": 10
+                },
+                "nightlyTemperatureCelsius": 33.239100346020763,
+                "baselineTemperatureCelsius": "NaN",
+                "relativeNightlyStddev30dCelsius": "NaN"
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Versa 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2023,
+                    "month": 11,
+                    "day": 9
+                },
+                "nightlyTemperatureCelsius": 34.156756756756764,
+                "baselineTemperatureCelsius": "NaN",
+                "relativeNightlyStddev30dCelsius": "NaN"
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Charge 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2023,
+                    "month": 6,
+                    "day": 4
+                },
+                "nightlyTemperatureCelsius": 32.056852791878171,
+                "baselineTemperatureCelsius": 33.192198943557479,
+                "relativeNightlyStddev30dCelsius": 0.6030197903302138
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Charge 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2022,
+                    "month": 12,
+                    "day": 21
+                },
+                "nightlyTemperatureCelsius": 33.1351724137931,
+                "baselineTemperatureCelsius": 33.305381967430158,
+                "relativeNightlyStddev30dCelsius": 0.42085481658263657
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Charge 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2022,
+                    "month": 12,
+                    "day": 17
+                },
+                "nightlyTemperatureCelsius": 33.249225473321857,
+                "baselineTemperatureCelsius": 33.361538461538458,
+                "relativeNightlyStddev30dCelsius": 0.44794790179996941
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Charge 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2022,
+                    "month": 12,
+                    "day": 16
+                },
+                "nightlyTemperatureCelsius": 33.361538461538458,
+                "baselineTemperatureCelsius": 33.361538461538458,
+                "relativeNightlyStddev30dCelsius": 0.49546423285869856
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Charge 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2022,
+                    "month": 12,
+                    "day": 15
+                },
+                "nightlyTemperatureCelsius": 33.700700525394048,
+                "baselineTemperatureCelsius": 33.472599531615927,
+                "relativeNightlyStddev30dCelsius": 0.49831936281599837
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Charge 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2022,
+                    "month": 12,
+                    "day": 10
+                },
+                "nightlyTemperatureCelsius": 32.552141057934513,
+                "baselineTemperatureCelsius": 33.018421052631581,
+                "relativeNightlyStddev30dCelsius": 0.47255269682823542
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Charge 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2022,
+                    "month": 12,
+                    "day": 9
+                },
+                "nightlyTemperatureCelsius": 33.521987951807226,
+                "baselineTemperatureCelsius": 33.100861198100816,
+                "relativeNightlyStddev30dCelsius": 0.45769014528861751
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Charge 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2022,
+                    "month": 12,
+                    "day": 8
+                },
+                "nightlyTemperatureCelsius": 33.183301343570058,
+                "baselineTemperatureCelsius": 33.018421052631581,
+                "relativeNightlyStddev30dCelsius": 0.46707729000472603
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Charge 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2022,
+                    "month": 12,
+                    "day": 7
+                },
+                "nightlyTemperatureCelsius": 32.908469945355193,
+                "baselineTemperatureCelsius": 33.01741158451685,
+                "relativeNightlyStddev30dCelsius": 0.48784594558075411
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Charge 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2022,
+                    "month": 11,
+                    "day": 28
+                },
+                "nightlyTemperatureCelsius": 34.101570680628271,
+                "baselineTemperatureCelsius": 33.01741158451685,
+                "relativeNightlyStddev30dCelsius": 0.48462982284303752
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Charge 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2022,
+                    "month": 11,
+                    "day": 27
+                },
+                "nightlyTemperatureCelsius": 32.937353433835845,
+                "baselineTemperatureCelsius": 33.016402116402119,
+                "relativeNightlyStddev30dCelsius": 0.40981623756995472
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Charge 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2022,
+                    "month": 11,
+                    "day": 25
+                },
+                "nightlyTemperatureCelsius": 33.539379474940333,
+                "baselineTemperatureCelsius": 33.01741158451685,
+                "relativeNightlyStddev30dCelsius": 0.42782118062128455
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Charge 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2022,
+                    "month": 11,
+                    "day": 23
+                },
+                "nightlyTemperatureCelsius": 33.692540322580641,
+                "baselineTemperatureCelsius": 33.016402116402119,
+                "relativeNightlyStddev30dCelsius": 0.42676696755024734
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Charge 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2022,
+                    "month": 11,
+                    "day": 21
+                },
+                "nightlyTemperatureCelsius": 33.632436708860759,
+                "baselineTemperatureCelsius": 32.997585673585675,
+                "relativeNightlyStddev30dCelsius": 0.384413177446583
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Charge 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2022,
+                    "month": 11,
+                    "day": 18
+                },
+                "nightlyTemperatureCelsius": 32.690254237288137,
+                "baselineTemperatureCelsius": 32.834511734028681,
+                "relativeNightlyStddev30dCelsius": 0.38339884289197329
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Charge 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2022,
+                    "month": 11,
+                    "day": 17
+                },
+                "nightlyTemperatureCelsius": 32.551953125,
+                "baselineTemperatureCelsius": 32.978769230769231,
+                "relativeNightlyStddev30dCelsius": 0.41000131075777335
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Charge 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2022,
+                    "month": 11,
+                    "day": 16
+                },
+                "nightlyTemperatureCelsius": 33.472599531615927,
+                "baselineTemperatureCelsius": 32.997585673585675,
+                "relativeNightlyStddev30dCelsius": 0.42659794778866639
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Charge 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2022,
+                    "month": 11,
+                    "day": 15
+                },
+                "nightlyTemperatureCelsius": 33.018421052631581,
+                "baselineTemperatureCelsius": 32.978769230769231,
+                "relativeNightlyStddev30dCelsius": 0.3550953813110066
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Charge 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2022,
+                    "month": 11,
+                    "day": 14
+                },
+                "nightlyTemperatureCelsius": 32.663231850117093,
+                "baselineTemperatureCelsius": 32.821000540443166,
+                "relativeNightlyStddev30dCelsius": 0.37872281357480697
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Charge 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2022,
+                    "month": 11,
+                    "day": 13
+                },
+                "nightlyTemperatureCelsius": 33.016402116402119,
+                "baselineTemperatureCelsius": 32.978769230769231,
+                "relativeNightlyStddev30dCelsius": 0.46197388611215445
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Charge 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2022,
+                    "month": 11,
+                    "day": 6
+                },
+                "nightlyTemperatureCelsius": 32.978769230769231,
+                "baselineTemperatureCelsius": "NaN",
+                "relativeNightlyStddev30dCelsius": "NaN"
+            }
+        },
+        {
+            "dataSource": {
+                "recordingMethod": "DERIVED",
+                "device": {
+                    "displayName": "Charge 4"
+                },
+                "platform": "FITBIT"
+            },
+            "dailySleepTemperatureDerivations": {
+                "date": {
+                    "year": 2022,
+                    "month": 10,
+                    "day": 21
+                },
+                "nightlyTemperatureCelsius": 32.198087431693985,
+                "baselineTemperatureCelsius": "NaN",
+                "relativeNightlyStddev30dCelsius": "NaN"
+            }
+        }
+    ]
+}

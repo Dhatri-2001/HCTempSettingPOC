@@ -1,0 +1,11 @@
+# Secret files - never commit these
+token.json
+Codelab.http
+fetch_data.ps1
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated files
+setpoint_flowchart.svg
